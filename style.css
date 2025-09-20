@@ -1,0 +1,16 @@
+h1{
+    font-family: var(--titan-font);
+    font-size: 5rem;
+    font-weight: 500;}
+
+button{
+    background-color: transparent;
+    border: none;
+}
+.btn{
+    border: none;
+    color: white;
+}
+.btn:hover{
+    color: var(--palete-orange-dark);
+}
