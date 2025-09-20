@@ -4,12 +4,12 @@ h1{
     font-weight: 500;}
 
 button{
-    background-color: transparent;
+    background-color: black;
     border: none;
 }
 .btn{
     border: none;
-    color: white;
+    color: rgb(10, 177, 127);
 }
 .btn:hover{
     color: var(--palete-orange-dark);
